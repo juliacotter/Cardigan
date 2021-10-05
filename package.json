@@ -22,7 +22,7 @@
     "@fullcalendar/daygrid": "^4.3.0",
     "@fullcalendar/resource-timeline": "^4.3.0",
     "fastify": "^2.2.0",
-    "fastify-static": "^2.4.0"
+    "fastify-static": "^4.2.4"
   },
   "devDependencies": {
     "nodemon": "^1.18.11"
